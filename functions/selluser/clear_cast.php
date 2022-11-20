@@ -1,0 +1,9 @@
+<?php 
+session_start();
+unset($_SESSION['numbercast']);
+unset($_SESSION['typenumber']);
+unset($_SESSION['totalprice']);
+unset($_SESSION['inputprice']);
+unset($_SESSION['datainput']);
+unset($_SESSION['intLinecast']);
+?>

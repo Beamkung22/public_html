@@ -1,0 +1,5 @@
+[07-Nov-2022 23:37:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/lotty417/public_html/functions/showNumberSell/submit_manage_number.php on line 110
+[07-Nov-2022 23:38:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/lotty417/public_html/functions/showNumberSell/submit_manage_number.php on line 110
+[07-Nov-2022 23:38:15 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/lotty417/public_html/functions/showNumberSell/submit_manage_number.php on line 110
+[07-Nov-2022 23:42:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/lotty417/public_html/functions/showNumberSell/submit_manage_number.php on line 118
+[07-Nov-2022 23:42:56 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home1/lotty417/public_html/functions/showNumberSell/submit_manage_number.php on line 109
